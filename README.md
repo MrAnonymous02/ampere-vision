@@ -1,4 +1,4 @@
 # ampere-vision
-This is my first repository
+This is my first Repository.
 <br>
 Author - Ambika Prasad
